@@ -1,3 +1,5 @@
+# [🚀观看我的哔哩哔哩视频](https://space.bilibili.com/3493277319825652)
+
 # browser-batch-skill
 
 An OpenClaw skill that teaches your agent to use **batch actions** and **CSS selector targeting** for dramatically faster browser automation.
